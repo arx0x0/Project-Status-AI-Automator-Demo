@@ -55,7 +55,7 @@ A sample project meeting transcript file that details discussion points and next
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shazil-R/Project-Status-AI-Automator.git
+   git clone https://github.com/arx0x0/Project-Status-AI-Automator-Demo.git
    cd Project-Status-AI-Automator
    ```
 
